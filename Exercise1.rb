@@ -4,3 +4,4 @@ end
 puts "Enter string"
 line=gets
 print count_letters(line)
+#exercise1
